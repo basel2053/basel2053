@@ -1,4 +1,4 @@
-<h1 align="center">Hey There 👋, I'm Bassel</h1>
+<h1 align="center">Hey There 👋</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
 - 🌱 I’m currently learning **Next.js**
