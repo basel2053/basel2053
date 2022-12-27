@@ -1,3 +1,4 @@
+<div align="center"><img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" alt="coding" width="240px" /></div>
 <h1 align="center">Hey There 👋</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
