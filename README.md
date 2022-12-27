@@ -53,4 +53,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basel2053&show_icons=true&locale=en" alt="basel2053" /></p>
+
