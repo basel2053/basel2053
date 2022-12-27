@@ -13,7 +13,7 @@
 
 <h1 align="center">Hey There 👋</h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/Cu9IF4g0ZfMtOZF3ys/giphy.gif" width="560" height="300"/>
 </div>
 
 ---
