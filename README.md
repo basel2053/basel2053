@@ -10,14 +10,24 @@
 <div align='center'>
  <img src="https://komarev.com/ghpvc/?username=basel2053&style=flat-square&color=blue" alt="" />
   </div>
+
 <h1 align="center">Hey There 👋</h1>
-<h3 align="center">A passionate MERN Stack Developer</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+---
 
+### :man_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Bassel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bassel-salah-7bb954216/)  OR  **basselsalah2053@gmail.com** 
 - 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **node, react**
-
-- 📫 How to reach me **basselsalah2053@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
