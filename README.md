@@ -23,7 +23,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m studying currently in ITI (Information Technology Institute) Track Web & User Interface.
 
-- :seedling: I’m currently learning **Next.js**
+- :seedling: I’m currently learning **Microservices**
 
 - :zap: In my free time, I solve problems on Hackerrank and read tech articles.
 
