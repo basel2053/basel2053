@@ -27,7 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on Hackerrank and read tech articles.
 
-- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Bassel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bassel-salah-7bb954216/)  OR  **basselsalah2053@gmail.com** 
+- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Bassel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bassel-salah-7bb954216/)  OR  **baselsalah2053@gmail.com** 
 
 ---
 
