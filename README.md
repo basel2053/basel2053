@@ -21,7 +21,7 @@
 ### :man_technologist: About Me :
 I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 
-- :telescope: I’m studying currently in ITI (Information Technology Institute) Track Web & User Interface.
+- :telescope: I graduated in ITI (Information Technology Institute) Track Web & User Interface.
 
 - :seedling: I’m currently learning **GO**
 
