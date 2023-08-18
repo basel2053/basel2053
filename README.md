@@ -25,7 +25,7 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: I’m currently learning **GO**
 
-- :zap: In my free time, I solve problems on Hackerrank and read tech articles.
+- :zap: In my free time, I read books and tech articles.
 
 - :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Bassel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bassel-salah-7bb954216/)  OR  **basselsalah2053@gmail.com** 
 
